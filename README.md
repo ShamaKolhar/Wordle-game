@@ -12,7 +12,7 @@ Features
 Repository Contents
 wordle_backend.py   # Core game logic (init, validate, score, commands)
 test_.py            # Unit tests (pytest)
-GenAI_declaration.pdf (administrative)
+
 Requirements
 • Python 3.8+
 • (Optional) pytest for tests
